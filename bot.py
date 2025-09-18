@@ -24,9 +24,8 @@ DB_CONFIG = {
 }
 
 # Токены
-TOKEN = ''
-# YANDEX_TOKEN = YA_TOKEN
-# HOST_YANDEX_DISK = 'https://cloud-api.yandex.net:443'
+TOKEN = '' # вствьте токен вашего теkеграмм бота
+
 
 # Инициализация бота
 state_storage = StateMemoryStorage()
